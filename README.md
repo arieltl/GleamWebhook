@@ -1,6 +1,6 @@
 # 🚀 Gleam Webhook System
 
-A robust, production-ready webhook processing system built with **Gleam** and **SQLite**, featuring comprehensive security validation and automatic payment state management.
+A robust webhook processing system built with **Gleam** and **SQLite**, featuring comprehensive security validation and automatic payment state management.
 
 ## 📋 Overview
 
